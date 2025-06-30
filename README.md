@@ -6,4 +6,4 @@
 
 ## 🧪 Trabajo Fin de Máster (TFM)
 - Título: "Desarrollo de métodos para la determinacion y comparación de redes de regulación basados en single-cell omics y AI"
-- DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15682788.svg)](https://doi.org/10.5281/zenodo.15682788)
+- DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15771721.svg)](https://doi.org/10.5281/zenodo.15771721)
